@@ -3,6 +3,8 @@
 ![GitHub stars](https://img.shields.io/github/stars/KonfHub/OSS-Days?style=social) ![GitHub forks](https://img.shields.io/github/forks/KonfHUb/OSS-Days?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/KonfHub/OSS-Days?style=social)
 
 ## What is OSS Days? 📢
+![Twitter(1)](https://user-images.githubusercontent.com/32809211/97311892-e024e580-188a-11eb-9f8d-9835d527d846.jpg)
+
 OSS Days (Open Source Software Days) is a two day (30 &amp; 31 October, 2020), virtual, developer-focussed, community driven conference on Cloud &amp; Open Source technologies, meant for professionals &amp; open source contributors.
 
 ## Meet our superhero speakers: 🦸
