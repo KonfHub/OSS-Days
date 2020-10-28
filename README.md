@@ -24,6 +24,10 @@ OSS Days (Open Source Software Days) is a two day (30 &amp; 31 October, 2020), v
   - Refactor .Net Core Web APIs to Serverless APIs with Azure Function
 - [Shubhangi Gupta](https://twitter.com/knowShubhangi)
   - Microsoft Learn Ambassadors Community and Azure
+- [Vivek Sridhar](https://twitter.com/vivek_sridhar)
+  - Workshop on Kubernetes 101
+- [MV Karan](https://twitter.com/mvkaran)
+  - Workshop on CI/CD with GitHub Actions and Kubernetes
   
 ## Speaker Slides 🗒️
 To be updated soon
