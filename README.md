@@ -36,7 +36,7 @@ To be updated soon
 - [Get started with Microsoft Developer Tools and Technologies](https://docs.microsoft.com/en-in/samples/browse/?products=azure&languages=aspx-csharp%2Ccsharp%2Cnodejs%2Cpython&wt.mc_id=AID3022384_QSG_483279&ocid=AID3022384_QSG_483279%3Futm_source%3Dlearn&utm_medium=generic&utm_campaign=oss)
 - [Check out popular developer tools,frameworks and experiences built around Open Source](https://opensource.microsoft.com/?wt.mc_id=AID3022384_QSG_483280&ocid=AID3022384_QSG_483280?utm_source=learn&utm_medium=generic&utm_campaign=oss)
 - [Take this learning path and understand Kubernetes in just 50 days](https://azure.microsoft.com/en-in/resources/kubernetes-learning-path/?wt.mc_id=AID3022384_QSG_483281&ocid=AID3022384_QSG_483281?utm_source=learn&utm_medium=generic&utm_campaign=oss)
-- [Learn new skills and discover the power of Microsoft products with steo by step guidance](https://docs.microsoft.com/en-us/learn/browse/?products=azure&roles=devops-engineer&wt.mc_id=AID3022384_QSG_483282&ocid=AID3022384_QSG_483282%3Futm_source%3Dlearn&utm_medium=generic&utm_campaign=oss)
+- [Learn new skills and discover the power of Microsoft products with step by step guidance](https://docs.microsoft.com/en-us/learn/browse/?products=azure&roles=devops-engineer&wt.mc_id=AID3022384_QSG_483282&ocid=AID3022384_QSG_483282%3Futm_source%3Dlearn&utm_medium=generic&utm_campaign=oss)
 - [Get started with open source contribution](https://dev.to/azure/contributing-to-open-source-projects-contributors-etiquette-1bdm?utm_source=learn&utm_medium=generic&utm_campaign=oss)
 
 ## Newsletter 📰 
