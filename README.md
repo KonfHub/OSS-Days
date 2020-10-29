@@ -30,7 +30,7 @@ OSS Days (Open Source Software Days) is a two day (30 &amp; 31 October, 2020), v
   - Workshop on CI/CD with GitHub Actions and Kubernetes
   
 ## Speaker Slides 🗒️
-To be updated soon
+[Full Stack DevOps Pipeline with GitHub Actions and Azure Cloud](https://slides.com/shreyaprasad/ossdays)
 
 ## Learning Materials 📖
 - [Get started with Microsoft Developer Tools and Technologies](https://docs.microsoft.com/en-in/samples/browse/?products=azure&languages=aspx-csharp%2Ccsharp%2Cnodejs%2Cpython&wt.mc_id=AID3022384_QSG_483279&ocid=AID3022384_QSG_483279%3Futm_source%3Dlearn&utm_medium=generic&utm_campaign=oss)
@@ -43,6 +43,7 @@ To be updated soon
 Learn about new technologies, stay connected with developers globally by subscribing to [Microsoft.Source](https://azure.microsoft.com/en-in/resources/join-the-azure-developer-community/?wt.mc_id=AID3018161_QSG_PD_SCL_446884&ocid=AID3018161_QSG_PD_SCL_446884)! 🤓 Latest updates on events, technology, articles and more on the newsletter! 👩‍💻
 
 ## Azure Dev Challenge 📣
-To be announced soon
+Take up the [Azure Dev Challenge](https://ossdays.konfhub.com/#azure), tweet using the #OSSDays and get limited edition Azure Hero Badges!
+P.S- Keep your Twitter dm open!
 
 ## ➡️ Check out our [website](https://ossdays.konfhub.com/) for more details on OSS Days.
