@@ -30,6 +30,7 @@ OSS Days (Open Source Software Days) is a two day (30 &amp; 31 October, 2020), v
   - Workshop on CI/CD with GitHub Actions and Kubernetes
   
 ## Speaker Slides 🗒️
+- [Real time Object Detection and Analytics using RedisEdge and Docker](https://www.slideshare.net/ajeetraina/real-time-object-detection-and-analytics-using-redisedge-and-docker) by [Ajeet Singh Raina](https://www.linkedin.com/in/ajeetsraina/)
 - [Full Stack DevOps Pipeline with GitHub Actions and Azure Cloud](https://slides.com/shreyaprasad/ossdays) by [Shreya Prasad](https://twitter.com/shreyacasmalert) and [Nishkarsh Raj](https://twitter.com/NishkarshRaj1)
 - [Distributed Tracing: New DevOps Foundation](https://docs.google.com/presentation/d/15NYe7IPOUoYn5Uh50p6mDwkMm-uXLfltCmq9EqmQ1aw/edit) by [Jayesh Ahire](https://twitter.com/Jayesh_Ahire1)
 
