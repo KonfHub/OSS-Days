@@ -1,0 +1,12 @@
+C:\Users\ashirwad\Desktop\New folder\OssDays\OssDays.DAL\bin\Debug\netstandard2.0\OssDays.DAL.deps.json
+C:\Users\ashirwad\Desktop\New folder\OssDays\OssDays.DAL\bin\Debug\netstandard2.0\OssDays.DAL.dll
+C:\Users\ashirwad\Desktop\New folder\OssDays\OssDays.DAL\obj\Debug\netstandard2.0\OssDays.DAL.AssemblyInfoInputs.cache
+C:\Users\ashirwad\Desktop\New folder\OssDays\OssDays.DAL\obj\Debug\netstandard2.0\OssDays.DAL.AssemblyInfo.cs
+C:\Users\ashirwad\Desktop\New folder\OssDays\OssDays.DAL\obj\Debug\netstandard2.0\OssDays.DAL.csprojAssemblyReference.cache
+C:\Users\ashirwad\Desktop\New folder\OssDays\OssDays.DAL\bin\Debug\netstandard2.0\OssDays.DAL.pdb
+C:\Users\ashirwad\Desktop\New folder\OssDays\OssDays.DAL\bin\Debug\netstandard2.0\OssDays.Model.dll
+C:\Users\ashirwad\Desktop\New folder\OssDays\OssDays.DAL\bin\Debug\netstandard2.0\OssDays.Model.pdb
+C:\Users\ashirwad\Desktop\New folder\OssDays\OssDays.DAL\obj\Debug\netstandard2.0\OssDays.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ashirwad\Desktop\New folder\OssDays\OssDays.DAL\obj\Debug\netstandard2.0\OssDays.DAL.csproj.CopyComplete
+C:\Users\ashirwad\Desktop\New folder\OssDays\OssDays.DAL\obj\Debug\netstandard2.0\OssDays.DAL.dll
+C:\Users\ashirwad\Desktop\New folder\OssDays\OssDays.DAL\obj\Debug\netstandard2.0\OssDays.DAL.pdb
