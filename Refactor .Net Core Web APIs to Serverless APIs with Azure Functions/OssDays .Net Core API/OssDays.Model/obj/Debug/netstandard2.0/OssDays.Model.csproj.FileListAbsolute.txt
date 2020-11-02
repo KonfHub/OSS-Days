@@ -1,0 +1,9 @@
+C:\Users\ashirwad\Desktop\New folder\OssDays\OssDays.Model\bin\Debug\netstandard2.0\OssDays.Model.deps.json
+C:\Users\ashirwad\Desktop\New folder\OssDays\OssDays.Model\bin\Debug\netstandard2.0\OssDays.Model.dll
+C:\Users\ashirwad\Desktop\New folder\OssDays\OssDays.Model\bin\Debug\netstandard2.0\OssDays.Model.pdb
+C:\Users\ashirwad\Desktop\New folder\OssDays\OssDays.Model\obj\Debug\netstandard2.0\OssDays.Model.csprojAssemblyReference.cache
+C:\Users\ashirwad\Desktop\New folder\OssDays\OssDays.Model\obj\Debug\netstandard2.0\OssDays.Model.AssemblyInfoInputs.cache
+C:\Users\ashirwad\Desktop\New folder\OssDays\OssDays.Model\obj\Debug\netstandard2.0\OssDays.Model.AssemblyInfo.cs
+C:\Users\ashirwad\Desktop\New folder\OssDays\OssDays.Model\obj\Debug\netstandard2.0\OssDays.Model.csproj.CoreCompileInputs.cache
+C:\Users\ashirwad\Desktop\New folder\OssDays\OssDays.Model\obj\Debug\netstandard2.0\OssDays.Model.dll
+C:\Users\ashirwad\Desktop\New folder\OssDays\OssDays.Model\obj\Debug\netstandard2.0\OssDays.Model.pdb

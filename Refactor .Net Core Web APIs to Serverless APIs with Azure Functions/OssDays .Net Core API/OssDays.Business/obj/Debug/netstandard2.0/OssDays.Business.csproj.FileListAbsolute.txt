@@ -1,0 +1,16 @@
+C:\Users\ashirwad\Desktop\New folder\OssDays\OssDays.Business\bin\Debug\netstandard2.0\OssDays.Business.deps.json
+C:\Users\ashirwad\Desktop\New folder\OssDays\OssDays.Business\bin\Debug\netstandard2.0\OssDays.Business.dll
+C:\Users\ashirwad\Desktop\New folder\OssDays\OssDays.Business\bin\Debug\netstandard2.0\OssDays.Business.pdb
+C:\Users\ashirwad\Desktop\New folder\OssDays\OssDays.Business\bin\Debug\netstandard2.0\OssDays.DAL.dll
+C:\Users\ashirwad\Desktop\New folder\OssDays\OssDays.Business\bin\Debug\netstandard2.0\OssDays.Model.dll
+C:\Users\ashirwad\Desktop\New folder\OssDays\OssDays.Business\bin\Debug\netstandard2.0\OssDays.Utility.dll
+C:\Users\ashirwad\Desktop\New folder\OssDays\OssDays.Business\bin\Debug\netstandard2.0\OssDays.DAL.pdb
+C:\Users\ashirwad\Desktop\New folder\OssDays\OssDays.Business\bin\Debug\netstandard2.0\OssDays.Model.pdb
+C:\Users\ashirwad\Desktop\New folder\OssDays\OssDays.Business\bin\Debug\netstandard2.0\OssDays.Utility.pdb
+C:\Users\ashirwad\Desktop\New folder\OssDays\OssDays.Business\obj\Debug\netstandard2.0\OssDays.Business.csprojAssemblyReference.cache
+C:\Users\ashirwad\Desktop\New folder\OssDays\OssDays.Business\obj\Debug\netstandard2.0\OssDays.Business.AssemblyInfoInputs.cache
+C:\Users\ashirwad\Desktop\New folder\OssDays\OssDays.Business\obj\Debug\netstandard2.0\OssDays.Business.AssemblyInfo.cs
+C:\Users\ashirwad\Desktop\New folder\OssDays\OssDays.Business\obj\Debug\netstandard2.0\OssDays.Business.csproj.CoreCompileInputs.cache
+C:\Users\ashirwad\Desktop\New folder\OssDays\OssDays.Business\obj\Debug\netstandard2.0\OssDays.Business.csproj.CopyComplete
+C:\Users\ashirwad\Desktop\New folder\OssDays\OssDays.Business\obj\Debug\netstandard2.0\OssDays.Business.dll
+C:\Users\ashirwad\Desktop\New folder\OssDays\OssDays.Business\obj\Debug\netstandard2.0\OssDays.Business.pdb
